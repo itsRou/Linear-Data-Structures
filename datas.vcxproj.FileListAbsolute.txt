@@ -1,0 +1,15 @@
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.vcxproj.AssemblyReference.cache
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.WelcomingWindow.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.vcxproj.GenerateResource.cache
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.exe
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.MyForm.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.Arrays.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.linkedlist.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.queue.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.stack.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.doubly.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.circular.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.doublycircular.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.cq.resources
+C:\Users\Rodayna\Desktop\tryy\datas\x64\Debug\datas.deque.resources
